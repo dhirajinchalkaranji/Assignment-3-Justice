@@ -1,4 +1,4 @@
-# Project 1 - Justice
+# Project 3 - Justice
 ![js](https://img.shields.io/badge/JS-Bootcamp-yellow) ![](https://img.shields.io/badge/HTML-Project_3-green)
 
 ## ![LCO Mascout](https://learncodeonline.in/mascot.png) 
